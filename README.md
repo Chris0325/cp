@@ -4,9 +4,9 @@
 
 练手题目A: https://atcoder.jp/contests/abc211/tasks/abc211_d
 
-练手题目B:
+练手题目B: 
 
-练手题目C:
+练手题目C: 
 
 [2、Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html)
 
@@ -16,11 +16,11 @@
 
 练手题目C: https://codeforces.com/contest/849/problem/E
 
-[3、kmp](https://leetcode-cn.com/problems/implement-strstr/solution/shi-xian-strstr-by-leetcode-solution-ds6y/)
+[3、kmp (字符串匹配)](https://leetcode-cn.com/problems/implement-strstr/solution/shi-xian-strstr-by-leetcode-solution-ds6y/)
 
 练手题目A: https://leetcode-cn.com/problems/implement-strstr
 
-练手题目B: 
+练手题目B: https://leetcode-cn.com/problems/remove-all-occurrences-of-a-substring/
 
 练手题目C: 
 
@@ -40,7 +40,7 @@
 
 练手题目C:
 
-[6、匈牙利算法](https://zhuanlan.zhihu.com/p/96229700?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312)
+[6、匈牙利算法 (二分图最大匹配，同样是二分图最小点覆盖)](https://zhuanlan.zhihu.com/p/96229700?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312)
 
 练手题目A: https://leetcode-cn.com/problems/broken-board-dominoes
 
@@ -48,7 +48,7 @@
 
 练手题目C: https://www.luogu.com.cn/problem/P1129
 
-[7、马拉车算法](https://zhuanlan.zhihu.com/p/70532099?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312)
+[7、马拉车算法 (最长回文子串)](https://zhuanlan.zhihu.com/p/70532099?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312)
 
 练手题目A: 
 
