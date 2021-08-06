@@ -10,17 +10,28 @@
 
 练手题目C: 
 
-2、Fenwick Tree (别名: BIT、树状数组)
+2、种类并查集
+
+解释(1): https://zhuanlan.zhihu.com/p/97813717
+
+练手题目A: https://www.luogu.com.cn/problem/P1525
+
+练手题目B: https://www.luogu.com.cn/problem/P2024
+
+练手题目C: 
+
+
+3、Fenwick Tree (别名: BIT、树状数组)
 
 解释(1): https://cp-algorithms.com/data_structures/fenwick.html
 
-练手题目A: https://codeforces.com/problemset/problem/704/A
+练手题目A: https://acm.hdu.edu.cn/showproblem.php?pid=1166
 
-练手题目B: https://codeforces.com/contest/777/problem/E
+练手题目B: https://www.luogu.com.cn/problem/P1908
 
 练手题目C: https://codeforces.com/contest/849/problem/E
 
-3、kmp (字符串匹配)
+4、kmp (字符串匹配)
 
 解释(1): https://leetcode-cn.com/problems/implement-strstr/solution/shi-xian-strstr-by-leetcode-solution-ds6y/
 
@@ -30,7 +41,7 @@
 
 练手题目C: 
 
-4、快速幂
+5、快速幂
 
 解释(1): https://leetcode-cn.com/problems/count-good-numbers/solution/tong-ji-hao-shu-zi-de-shu-mu-by-leetcode-53jj/
 
@@ -40,7 +51,7 @@
 
 练手题目C:
 
-5、滚动哈希
+6、滚动哈希
 
 解释(1): https://leetcode-cn.com/problems/longest-common-subpath/solution/zui-chang-gong-gong-zi-lu-jing-by-leetco-ypip/
 
@@ -50,7 +61,7 @@
 
 练手题目C:
 
-6、匈牙利算法 (二分图最大匹配，同样是二分图最小点覆盖)
+7、匈牙利算法 (二分图最大匹配，同样是二分图最小点覆盖)
 
 解释(1): https://zhuanlan.zhihu.com/p/96229700?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312
 
@@ -60,13 +71,23 @@
 
 练手题目C: https://www.luogu.com.cn/problem/P1129
 
-7、马拉车算法 (最长回文子串)
+8、马拉车算法 (最长回文子串)
 
 解释(1): https://zhuanlan.zhihu.com/p/70532099?utm_source=wechat_session&utm_medium=social&utm_oi=820788263638925312
 
 练手题目A: https://leetcode-cn.com/problems/longest-palindromic-substring
 
 练手题目B: 
+
+练手题目C: 
+
+9、差分约束 (涉及单源最短路径与单源最长路径)
+
+解释(1): https://zhuanlan.zhihu.com/p/104764488
+
+练手题目A: https://www.luogu.com.cn/problem/P5960
+
+练手题目B: https://www.luogu.com.cn/problem/P1250
 
 练手题目C: 
 
